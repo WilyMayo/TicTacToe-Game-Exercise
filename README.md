@@ -1,6 +1,6 @@
 # Tic-Tac-Toe 
 
-Tic Tac Toe mini console game exercise that can be played with 2 players by taking turn picking a number from the field filling it in with a "X" or "O".
+Tic Tac Toe is a exercise purpose mini console game that can be played with 2 players by taking turn picking a number from the field filling it in with a "X" or "O".
 The first player to get three in a row wins.  
 
 ## Features include
